@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/KY00KIM/caffeine_how_much_server/issues"
   },
-  "homepage": "https://github.com/KY00KIM/caffeine_how_much_server#readme"
+  "homepage": "https://github.com/KY00KIM/caffeine_how_much_server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
