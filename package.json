@@ -1,0 +1,19 @@
+{
+  "name": "caffeine_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KY00KIM/caffeine_how_much_server"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KY00KIM/caffeine_how_much_server/issues"
+  },
+  "homepage": "https://github.com/KY00KIM/caffeine_how_much_server#readme"
+}
