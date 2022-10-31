@@ -4,6 +4,10 @@ KUGODS caffeine-cut 팀 back-end server입니다.
 
 ## 커밋규칙
 
-<ol> **[ACTIVITY] src_file** </ol>
+<ul> 
+    **[ACTIVITY] src_file** 
+</ul>
 
-<ol> **ACTIVITY** 예시 : ADD, FIX, DEL, ... </ol>
+<ul> 
+**ACTIVITY** 예시 : ADD, FIX, DEL, ... 
+</ul>
